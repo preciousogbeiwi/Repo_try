@@ -18,3 +18,6 @@ You should get a merge conflict in that file where incompatible changes have bee
 Fix the conflict by editing the file
 Commit the fix
 Merge the changes into master or main
+
+
+This is a new change
